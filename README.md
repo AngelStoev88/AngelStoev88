@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelstoev88&label=Profile%20views&color=0e75b6&style=flat" alt="angelstoev88" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, SQL**
+- 🌱 I’m currently learning **Python, Django, SQL, FASTApi**
 
 - 📫 How to reach me **angelstoev88@gmail.com**
 
